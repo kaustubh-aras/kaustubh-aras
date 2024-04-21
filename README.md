@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
-# Hi 👋, I'm Kaustubh
-
 
 ## About Me
 - 🎓 Currently a student majoring in Information Technology
