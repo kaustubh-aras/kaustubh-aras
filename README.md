@@ -5,4 +5,3 @@
 - 📱 Currently Learning Full Stack Mobile Development
 - 💻 Also interested in full stack web development
 - ⚛️ Proficient in React Native
-- 🚀 Learning Flutter and Unreal Engine
